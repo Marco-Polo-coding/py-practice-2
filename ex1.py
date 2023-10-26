@@ -15,7 +15,8 @@ favorite_color = input("What's your favorite color ")
 favorite_number = input("What's your favorite number ")
 
 # 5. Print out the information in a sentence
-print("Hello, ","world!")
+information = "This is a sentence"
+print("This is the information of a sentence: ",information)
 
 # 6. Multiply the user's favorite number by 10 and print out the result
 result = int(favorite_number)*10
